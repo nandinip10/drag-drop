@@ -5,5 +5,6 @@
 
 
 
-[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://github.com/nandinip10/drag-drop/assets/85482570/cb979026-08d6-4cd1-b5c0-a81dc9a0f69c)
+
+https://github.com/nandinip10/drag-drop/assets/85482570/861ea67e-a003-41dc-a405-6cde5b204720
 
